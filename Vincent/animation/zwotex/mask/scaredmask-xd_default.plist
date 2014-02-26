@@ -1,0 +1,1686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>scaredmask-attack0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 80}, {335, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 8}</string>
+			<key>spriteSize</key>
+			<string>{335, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2725, 0}, {335, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 80}, {335, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 8}</string>
+			<key>spriteSize</key>
+			<string>{335, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2011, 904}, {335, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 78}, {331, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 4}</string>
+			<key>spriteSize</key>
+			<string>{331, 197}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{913, 341}, {331, 197}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 76}, {323, 209}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -0}</string>
+			<key>spriteSize</key>
+			<string>{323, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1313, 327}, {323, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 62}, {317, 233}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 2}</string>
+			<key>spriteSize</key>
+			<string>{317, 233}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1834, 0}, {317, 233}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 43}, {311, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 7}</string>
+			<key>spriteSize</key>
+			<string>{311, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{696, 1064}, {311, 261}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 25}, {305, 289}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 11}</string>
+			<key>spriteSize</key>
+			<string>{305, 289}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{873, 737}, {305, 289}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 7}, {299, 315}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 16}</string>
+			<key>spriteSize</key>
+			<string>{299, 315}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{377, 0}, {299, 315}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 82}, {259, 223}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -13}</string>
+			<key>spriteSize</key>
+			<string>{259, 223}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1978, 468}, {259, 223}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{84, 61}, {215, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{21, 4}</string>
+			<key>spriteSize</key>
+			<string>{215, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1485, 737}, {215, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{118, 17}, {175, 315}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 6}</string>
+			<key>spriteSize</key>
+			<string>{175, 315}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1657, 0}, {175, 315}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{127, 9}, {165, 325}}</string>
+			<key>spriteOffset</key>
+			<string>{39, 9}</string>
+			<key>spriteSize</key>
+			<string>{165, 325}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{706, 737}, {165, 325}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{126, 5}, {165, 339}}</string>
+			<key>spriteOffset</key>
+			<string>{38, 6}</string>
+			<key>spriteSize</key>
+			<string>{165, 339}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1146, 0}, {165, 339}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{95, 80}, {177, 223}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -11}</string>
+			<key>spriteSize</key>
+			<string>{177, 223}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{734, 317}, {177, 223}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{63, 82}, {191, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, -17}</string>
+			<key>spriteSize</key>
+			<string>{191, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1863, 235}, {191, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 82}, {223, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -10}</string>
+			<key>spriteSize</key>
+			<string>{223, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1638, 317}, {223, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 82}, {253, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -4}</string>
+			<key>spriteSize</key>
+			<string>{253, 205}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1687, 1432}, {253, 205}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 81}, {283, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{283, 197}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1408, 538}, {283, 197}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 74}, {311, 209}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{311, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1760, 1185}, {311, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 79}, {309, 195}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{309, 195}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2414, 0}, {309, 195}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 62}, {307, 229}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 4}</string>
+			<key>spriteSize</key>
+			<string>{307, 229}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1702, 735}, {307, 229}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 34}, {303, 273}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 10}</string>
+			<key>spriteSize</key>
+			<string>{303, 273}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1180, 737}, {303, 273}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 7}, {299, 315}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 16}</string>
+			<key>spriteSize</key>
+			<string>{299, 315}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{678, 0}, {299, 315}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 82}, {259, 223}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -13}</string>
+			<key>spriteSize</key>
+			<string>{259, 223}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2153, 0}, {259, 223}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{84, 61}, {215, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{21, 4}</string>
+			<key>spriteSize</key>
+			<string>{215, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1350, 1012}, {215, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{118, 17}, {175, 315}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 6}</string>
+			<key>spriteSize</key>
+			<string>{175, 315}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1480, 0}, {175, 315}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{127, 9}, {165, 325}}</string>
+			<key>spriteOffset</key>
+			<string>{39, 9}</string>
+			<key>spriteSize</key>
+			<string>{165, 325}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1313, 0}, {165, 325}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{126, 5}, {165, 339}}</string>
+			<key>spriteOffset</key>
+			<string>{38, 6}</string>
+			<key>spriteSize</key>
+			<string>{165, 339}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{979, 0}, {165, 339}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{95, 80}, {177, 223}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -11}</string>
+			<key>spriteSize</key>
+			<string>{177, 223}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2153, 225}, {177, 223}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{63, 82}, {191, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, -17}</string>
+			<key>spriteSize</key>
+			<string>{191, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1567, 970}, {191, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 82}, {223, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -10}</string>
+			<key>spriteSize</key>
+			<string>{223, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1760, 966}, {223, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 82}, {253, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -4}</string>
+			<key>spriteSize</key>
+			<string>{253, 205}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2239, 450}, {253, 205}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 81}, {283, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{283, 197}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1693, 536}, {283, 197}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 74}, {311, 209}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{311, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2011, 693}, {311, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask-attack0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 77}, {323, 195}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 6}</string>
+			<key>spriteSize</key>
+			<string>{323, 195}</string>
+			<key>spriteSourceSize</key>
+			<string>{341, 361}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{678, 1743}, {323, 195}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 17}, {337, 177}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 18}</string>
+			<key>spriteSize</key>
+			<string>{337, 177}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{339, 1952}, {337, 177}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 10}, {337, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 21}</string>
+			<key>spriteSize</key>
+			<string>{337, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1580}, {337, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 3}, {337, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 25}</string>
+			<key>spriteSize</key>
+			<string>{337, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1387}, {337, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 10}, {337, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 21}</string>
+			<key>spriteSize</key>
+			<string>{337, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1767}, {337, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 11}, {337, 183}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 21}</string>
+			<key>spriteSize</key>
+			<string>{337, 183}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2324, 657}, {337, 183}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 12}, {337, 183}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 20}</string>
+			<key>spriteSize</key>
+			<string>{337, 183}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2494, 384}, {337, 183}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 13}, {337, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 20}</string>
+			<key>spriteSize</key>
+			<string>{337, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{3062, 0}, {337, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 14}, {337, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 19}</string>
+			<key>spriteSize</key>
+			<string>{337, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2753, 187}, {337, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 15}, {335, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 19}</string>
+			<key>spriteSize</key>
+			<string>{335, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1683, 1639}, {335, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 16}, {335, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 18}</string>
+			<key>spriteSize</key>
+			<string>{335, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1942, 1396}, {335, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 17}, {331, 177}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 18}</string>
+			<key>spriteSize</key>
+			<string>{331, 177}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2073, 1091}, {331, 177}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 17}, {329, 177}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 18}</string>
+			<key>spriteSize</key>
+			<string>{329, 177}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{678, 1385}, {329, 177}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 18}, {325, 177}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 17}</string>
+			<key>spriteSize</key>
+			<string>{325, 177}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{678, 1564}, {325, 177}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 19}, {349, 175}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 17}</string>
+			<key>spriteSize</key>
+			<string>{349, 175}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 828}, {349, 175}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 20}, {375, 195}}</string>
+			<key>spriteOffset</key>
+			<string>{14, 6}</string>
+			<key>spriteSize</key>
+			<string>{375, 195}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {375, 195}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 10}, {365, 201}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 13}</string>
+			<key>spriteSize</key>
+			<string>{365, 201}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{367, 317}, {365, 201}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 7}, {355, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 17}</string>
+			<key>spriteSize</key>
+			<string>{355, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{357, 520}, {355, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 16}, {347, 187}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 14}</string>
+			<key>spriteSize</key>
+			<string>{347, 187}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1005}, {347, 187}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 10}, {343, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 18}</string>
+			<key>spriteSize</key>
+			<string>{343, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1194}, {343, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 10}, {353, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 17}</string>
+			<key>spriteSize</key>
+			<string>{353, 193}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{714, 542}, {353, 193}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 17}, {365, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{-17, -2}</string>
+			<key>spriteSize</key>
+			<string>{365, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 197}, {365, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 10}, {355, 213}}</string>
+			<key>spriteOffset</key>
+			<string>{-14, 7}</string>
+			<key>spriteSize</key>
+			<string>{355, 213}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 416}, {355, 213}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 7}, {349, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 14}</string>
+			<key>spriteSize</key>
+			<string>{349, 205}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{355, 721}, {349, 205}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 16}, {343, 189}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 13}</string>
+			<key>spriteSize</key>
+			<string>{343, 189}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{345, 1194}, {343, 189}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 10}, {339, 189}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 19}</string>
+			<key>spriteSize</key>
+			<string>{339, 189}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1009, 1028}, {339, 189}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 10}, {337, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 21}</string>
+			<key>spriteSize</key>
+			<string>{337, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1348, 1432}, {337, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 17}, {337, 177}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 18}</string>
+			<key>spriteSize</key>
+			<string>{337, 177}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1954}, {337, 177}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 10}, {337, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 21}</string>
+			<key>spriteSize</key>
+			<string>{337, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1009, 1406}, {337, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 0}, {353, 195}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 26}</string>
+			<key>spriteSize</key>
+			<string>{353, 195}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 631}, {353, 195}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 16}, {345, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 18}</string>
+			<key>spriteSize</key>
+			<string>{345, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{349, 1005}, {345, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 10}, {339, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 21}</string>
+			<key>spriteSize</key>
+			<string>{339, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1009, 1219}, {339, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 10}, {337, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 21}</string>
+			<key>spriteSize</key>
+			<string>{337, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1005, 1593}, {337, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 10}, {337, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 21}</string>
+			<key>spriteSize</key>
+			<string>{337, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1350, 1245}, {337, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 5}, {337, 189}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 24}</string>
+			<key>spriteSize</key>
+			<string>{337, 189}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{339, 1387}, {337, 189}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 17}, {337, 177}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 18}</string>
+			<key>spriteSize</key>
+			<string>{337, 177}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1344, 1619}, {337, 177}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 10}, {337, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 21}</string>
+			<key>spriteSize</key>
+			<string>{337, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2414, 197}, {337, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 10}, {337, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 21}</string>
+			<key>spriteSize</key>
+			<string>{337, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{339, 1765}, {337, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 17}, {337, 177}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 18}</string>
+			<key>spriteSize</key>
+			<string>{337, 177}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1003, 1780}, {337, 177}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 10}, {337, 185}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 21}</string>
+			<key>spriteSize</key>
+			<string>{337, 185}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{339, 1578}, {337, 185}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scaredmask0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 0}, {337, 195}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 26}</string>
+			<key>spriteSize</key>
+			<string>{337, 195}</string>
+			<key>spriteSourceSize</key>
+			<string>{431, 247}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1069, 540}, {337, 195}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{4096, 4096}</string>
+		<key>name</key>
+		<string>scaredmask-xd</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>scaredmask-xd_default</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>scaredmask-xd_default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

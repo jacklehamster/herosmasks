@@ -1,0 +1,2456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>angrymask-attack0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 72}, {323, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -22}</string>
+			<key>spriteSize</key>
+			<string>{323, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1818}, {323, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 72}, {323, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -22}</string>
+			<key>spriteSize</key>
+			<string>{323, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1768, 1654}, {323, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 72}, {323, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -22}</string>
+			<key>spriteSize</key>
+			<string>{323, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{325, 2138}, {323, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 72}, {323, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -22}</string>
+			<key>spriteSize</key>
+			<string>{323, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{325, 1856}, {323, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 72}, {323, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -22}</string>
+			<key>spriteSize</key>
+			<string>{323, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1487, 1372}, {323, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 72}, {323, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -22}</string>
+			<key>spriteSize</key>
+			<string>{323, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{658, 1574}, {323, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 72}, {323, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -22}</string>
+			<key>spriteSize</key>
+			<string>{323, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 1856}, {323, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 72}, {323, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -22}</string>
+			<key>spriteSize</key>
+			<string>{323, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{333, 1574}, {323, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 72}, {323, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -22}</string>
+			<key>spriteSize</key>
+			<string>{323, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1206, 1090}, {323, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 72}, {323, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -22}</string>
+			<key>spriteSize</key>
+			<string>{323, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 2100}, {323, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 72}, {323, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -22}</string>
+			<key>spriteSize</key>
+			<string>{323, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{975, 1856}, {323, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{80, 72}, {293, 308}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -36}</string>
+			<key>spriteSize</key>
+			<string>{293, 308}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{425, 0}, {293, 308}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{59, 71}, {337, 264}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -13}</string>
+			<key>spriteSize</key>
+			<string>{337, 264}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{345, 1308}, {337, 264}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 70}, {379, 254}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -7}</string>
+			<key>spriteSize</key>
+			<string>{379, 254}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{393, 310}, {379, 254}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 69}, {423, 254}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -6}</string>
+			<key>spriteSize</key>
+			<string>{423, 254}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {423, 254}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 71}, {391, 252}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -7}</string>
+			<key>spriteSize</key>
+			<string>{391, 252}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 256}, {391, 252}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 73}, {279, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -8}</string>
+			<key>spriteSize</key>
+			<string>{279, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{887, 3184}, {279, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 75}, {279, 248}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -9}</string>
+			<key>spriteSize</key>
+			<string>{279, 248}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1168, 3182}, {279, 248}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 77}, {279, 246}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -10}</string>
+			<key>spriteSize</key>
+			<string>{279, 246}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1449, 3231}, {279, 246}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 78}, {279, 246}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -11}</string>
+			<key>spriteSize</key>
+			<string>{279, 246}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1914, 2991}, {279, 246}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 80}, {279, 244}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -12}</string>
+			<key>spriteSize</key>
+			<string>{279, 244}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{887, 3436}, {279, 244}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 82}, {279, 242}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -13}</string>
+			<key>spriteSize</key>
+			<string>{279, 242}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{281, 3505}, {279, 242}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 84}, {279, 240}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -14}</string>
+			<key>spriteSize</key>
+			<string>{279, 240}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 3739}, {279, 240}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 86}, {279, 240}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -16}</string>
+			<key>spriteSize</key>
+			<string>{279, 240}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{562, 3505}, {279, 240}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{81, 87}, {287, 238}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -16}</string>
+			<key>spriteSize</key>
+			<string>{287, 238}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1625, 2991}, {287, 238}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{75, 89}, {299, 236}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -17}</string>
+			<key>spriteSize</key>
+			<string>{299, 236}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2611, 2462}, {299, 236}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{67, 77}, {315, 242}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -8}</string>
+			<key>spriteSize</key>
+			<string>{315, 242}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1950, 2745}, {315, 242}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{60, 66}, {331, 246}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 1}</string>
+			<key>spriteSize</key>
+			<string>{331, 246}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1570}, {331, 246}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{53, 54}, {347, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 11}</string>
+			<key>spriteSize</key>
+			<string>{347, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{774, 313}, {347, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 38}, {361, 258}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 23}</string>
+			<key>spriteSize</key>
+			<string>{361, 258}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{925, 830}, {361, 258}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 30}, {361, 260}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 30}</string>
+			<key>spriteSize</key>
+			<string>{361, 260}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1046}, {361, 260}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 19}, {361, 262}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 40}</string>
+			<key>spriteSize</key>
+			<string>{361, 262}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{644, 566}, {361, 262}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 7}, {361, 268}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 49}</string>
+			<key>spriteSize</key>
+			<string>{361, 268}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 510}, {361, 268}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 34}, {361, 264}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 24}</string>
+			<key>spriteSize</key>
+			<string>{361, 264}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 780}, {361, 264}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{55, 61}, {343, 260}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -1}</string>
+			<key>spriteSize</key>
+			<string>{343, 260}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1308}, {343, 260}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 88}, {323, 264}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -30}</string>
+			<key>spriteSize</key>
+			<string>{323, 264}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 2416}, {323, 264}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 116}, {323, 252}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -52}</string>
+			<key>spriteSize</key>
+			<string>{323, 252}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1300, 2763}, {323, 252}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 122}, {323, 244}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -54}</string>
+			<key>spriteSize</key>
+			<string>{323, 244}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{975, 2936}, {323, 244}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 128}, {323, 236}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -56}</string>
+			<key>spriteSize</key>
+			<string>{323, 236}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1950, 2507}, {323, 236}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 124}, {323, 238}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -53}</string>
+			<key>spriteSize</key>
+			<string>{323, 238}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1625, 2751}, {323, 238}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 119}, {323, 242}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -50}</string>
+			<key>spriteSize</key>
+			<string>{323, 242}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1625, 2507}, {323, 242}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 115}, {323, 244}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -47}</string>
+			<key>spriteSize</key>
+			<string>{323, 244}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 2938}, {323, 244}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 110}, {323, 248}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -44}</string>
+			<key>spriteSize</key>
+			<string>{323, 248}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 3188}, {323, 248}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 106}, {323, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -41}</string>
+			<key>spriteSize</key>
+			<string>{323, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{325, 2950}, {323, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 101}, {323, 252}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -37}</string>
+			<key>spriteSize</key>
+			<string>{323, 252}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1300, 2509}, {323, 252}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 99}, {323, 254}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -36}</string>
+			<key>spriteSize</key>
+			<string>{323, 254}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{975, 2680}, {323, 254}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 98}, {323, 254}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -35}</string>
+			<key>spriteSize</key>
+			<string>{323, 254}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 2682}, {323, 254}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0048.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 96}, {323, 256}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -34}</string>
+			<key>spriteSize</key>
+			<string>{323, 256}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 2930}, {323, 256}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 94}, {323, 258}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -33}</string>
+			<key>spriteSize</key>
+			<string>{323, 258}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{325, 2690}, {323, 258}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 92}, {323, 260}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -32}</string>
+			<key>spriteSize</key>
+			<string>{323, 260}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2330, 2200}, {323, 260}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 90}, {323, 262}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -31}</string>
+			<key>spriteSize</key>
+			<string>{323, 262}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2049, 1936}, {323, 262}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 89}, {323, 262}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -30}</string>
+			<key>spriteSize</key>
+			<string>{323, 262}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1625, 2243}, {323, 262}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 87}, {323, 264}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -29}</string>
+			<key>spriteSize</key>
+			<string>{323, 264}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{975, 2414}, {323, 264}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 85}, {323, 266}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -28}</string>
+			<key>spriteSize</key>
+			<string>{323, 266}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 2662}, {323, 266}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0055.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 83}, {323, 268}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -27}</string>
+			<key>spriteSize</key>
+			<string>{323, 268}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{325, 2420}, {323, 268}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0056.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 81}, {323, 270}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -26}</string>
+			<key>spriteSize</key>
+			<string>{323, 270}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1300, 2237}, {323, 270}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 80}, {323, 272}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -26}</string>
+			<key>spriteSize</key>
+			<string>{323, 272}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1300, 1963}, {323, 272}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 78}, {323, 274}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -25}</string>
+			<key>spriteSize</key>
+			<string>{323, 274}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{975, 2138}, {323, 274}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 76}, {323, 276}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -24}</string>
+			<key>spriteSize</key>
+			<string>{323, 276}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 2138}, {323, 276}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask-attack0060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 74}, {323, 278}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -23}</string>
+			<key>spriteSize</key>
+			<string>{323, 278}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 380}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 2382}, {323, 278}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 11}, {279, 299}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSize</key>
+			<string>{279, 299}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{606, 3202}, {279, 299}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 11}, {279, 299}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSize</key>
+			<string>{279, 299}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 3438}, {279, 299}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 10}, {279, 301}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSize</key>
+			<string>{279, 301}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2968, 305}, {279, 301}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 10}, {279, 301}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSize</key>
+			<string>{279, 301}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2655, 2127}, {279, 301}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 9}, {279, 301}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{279, 301}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2693, 1218}, {279, 301}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 9}, {279, 301}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{279, 301}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2611, 2700}, {279, 301}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 8}, {279, 303}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{279, 303}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2687, 305}, {279, 303}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 8}, {279, 303}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{279, 303}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2412, 614}, {279, 303}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 8}, {279, 303}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{279, 303}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2412, 1529}, {279, 303}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 7}, {279, 303}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 9}</string>
+			<key>spriteSize</key>
+			<string>{279, 303}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2968, 0}, {279, 303}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 7}, {279, 303}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 9}</string>
+			<key>spriteSize</key>
+			<string>{279, 303}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2412, 1224}, {279, 303}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 6}, {279, 305}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 9}</string>
+			<key>spriteSize</key>
+			<string>{279, 305}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2406, 0}, {279, 305}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 6}, {279, 305}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 9}</string>
+			<key>spriteSize</key>
+			<string>{279, 305}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1812, 1236}, {279, 305}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 5}, {279, 305}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 10}</string>
+			<key>spriteSize</key>
+			<string>{279, 305}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2049, 2200}, {279, 305}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 5}, {279, 305}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 10}</string>
+			<key>spriteSize</key>
+			<string>{279, 305}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2131, 925}, {279, 305}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 5}, {279, 305}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 10}</string>
+			<key>spriteSize</key>
+			<string>{279, 305}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1768, 1936}, {279, 305}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 4}, {279, 307}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 10}</string>
+			<key>spriteSize</key>
+			<string>{279, 307}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1531, 933}, {279, 307}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 4}, {279, 307}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 10}</string>
+			<key>spriteSize</key>
+			<string>{279, 307}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1487, 1654}, {279, 307}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 3}, {279, 307}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 11}</string>
+			<key>spriteSize</key>
+			<string>{279, 307}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1844, 309}, {279, 307}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 3}, {279, 307}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 11}</string>
+			<key>spriteSize</key>
+			<string>{279, 307}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1844, 0}, {279, 307}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 2}, {279, 309}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 11}</string>
+			<key>spriteSize</key>
+			<string>{279, 309}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1563, 311}, {279, 309}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 2}, {279, 309}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 11}</string>
+			<key>spriteSize</key>
+			<string>{279, 309}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1282, 311}, {279, 309}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 2}, {279, 309}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 11}</string>
+			<key>spriteSize</key>
+			<string>{279, 309}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1206, 1372}, {279, 309}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 1}, {279, 309}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 12}</string>
+			<key>spriteSize</key>
+			<string>{279, 309}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{925, 1090}, {279, 309}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 1}, {279, 309}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 12}</string>
+			<key>spriteSize</key>
+			<string>{279, 309}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1569, 622}, {279, 309}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 0}, {279, 311}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 12}</string>
+			<key>spriteSize</key>
+			<string>{279, 311}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{644, 830}, {279, 311}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 0}, {279, 311}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 12}</string>
+			<key>spriteSize</key>
+			<string>{279, 311}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1001, 0}, {279, 311}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 0}, {279, 311}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 12}</string>
+			<key>spriteSize</key>
+			<string>{279, 311}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{363, 566}, {279, 311}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 1}, {279, 309}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 12}</string>
+			<key>spriteSize</key>
+			<string>{279, 309}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1282, 0}, {279, 309}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 1}, {279, 309}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 12}</string>
+			<key>spriteSize</key>
+			<string>{279, 309}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1288, 622}, {279, 309}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 2}, {279, 309}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 11}</string>
+			<key>spriteSize</key>
+			<string>{279, 309}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1563, 0}, {279, 309}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 2}, {279, 309}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 11}</string>
+			<key>spriteSize</key>
+			<string>{279, 309}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{363, 879}, {279, 309}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 3}, {279, 307}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 11}</string>
+			<key>spriteSize</key>
+			<string>{279, 307}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1850, 927}, {279, 307}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 3}, {279, 307}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 11}</string>
+			<key>spriteSize</key>
+			<string>{279, 307}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{720, 0}, {279, 307}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 3}, {279, 307}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 11}</string>
+			<key>spriteSize</key>
+			<string>{279, 307}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2125, 0}, {279, 307}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 4}, {279, 307}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 10}</string>
+			<key>spriteSize</key>
+			<string>{279, 307}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2125, 309}, {279, 307}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 4}, {279, 307}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 10}</string>
+			<key>spriteSize</key>
+			<string>{279, 307}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1850, 618}, {279, 307}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 5}, {279, 305}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 10}</string>
+			<key>spriteSize</key>
+			<string>{279, 305}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2406, 307}, {279, 305}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 5}, {279, 305}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 10}</string>
+			<key>spriteSize</key>
+			<string>{279, 305}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2093, 1539}, {279, 305}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 6}, {279, 305}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 9}</string>
+			<key>spriteSize</key>
+			<string>{279, 305}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2131, 618}, {279, 305}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 6}, {279, 305}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 9}</string>
+			<key>spriteSize</key>
+			<string>{279, 305}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2131, 1232}, {279, 305}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 7}, {279, 303}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 9}</string>
+			<key>spriteSize</key>
+			<string>{279, 303}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2330, 2462}, {279, 303}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 7}, {279, 303}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 9}</string>
+			<key>spriteSize</key>
+			<string>{279, 303}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2374, 1834}, {279, 303}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 7}, {279, 303}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 9}</string>
+			<key>spriteSize</key>
+			<string>{279, 303}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2693, 610}, {279, 303}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 8}, {279, 303}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{279, 303}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2412, 919}, {279, 303}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 8}, {279, 303}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{279, 303}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2687, 0}, {279, 303}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 9}, {279, 301}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{279, 301}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2693, 915}, {279, 301}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0048.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 9}, {279, 301}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{279, 301}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2693, 1824}, {279, 301}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 10}, {279, 301}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSize</key>
+			<string>{279, 301}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2693, 1521}, {279, 301}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>angrymask0050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 10}, {279, 301}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSize</key>
+			<string>{279, 301}</string>
+			<key>spriteSourceSize</key>
+			<string>{343, 335}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{325, 3202}, {279, 301}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{4096, 4096}</string>
+		<key>name</key>
+		<string>angrymask-xd</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>angrymask-xd_default</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>angrymask-xd_default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
